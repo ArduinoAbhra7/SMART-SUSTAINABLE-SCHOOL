@@ -122,7 +122,11 @@ SmartSustainableSchool/
 ├── .gitignore                   ← Protects config.h
 └── README.md                    ← This file
 ```
+## 🏆 Competition
 
+Built for the **Instructables Sensor Contest**  
+Published on [Instructables.com](https://www.instructables.com) — Category: **Circuits → Arduino**  
+Author: **ArduinoAbhra7**
 
 ---
 
