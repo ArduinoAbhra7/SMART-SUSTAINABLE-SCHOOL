@@ -123,12 +123,6 @@ SmartSustainableSchool/
 └── README.md                    ← This file
 ```
 
----
-
-## 🏆 Competition
-
-Built for **STEMxplore 2026** — *"Engineering Energy-Efficient Communities"*  
-Category: Arduino-based project | Class 7–12
 
 ---
 
