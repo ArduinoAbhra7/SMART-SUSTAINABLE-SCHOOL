@@ -1,0 +1,18 @@
+# ⚠️ CREDENTIALS — never commit these
+config.h
+
+# Arduino build artifacts
+build/
+*.bin
+*.elf
+*.hex
+*.map
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+*.code-workspace
